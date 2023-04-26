@@ -1,0 +1,84 @@
+/* vaibhav rudani(8810171), niki soni(8806834) */
+
+.product_image {
+  height: 200px;
+}
+
+.product_name {
+  height: 80px;
+  padding-right: 20px !important;
+  padding-left: 20px !important;
+}
+
+.product_footer {
+  padding-right: 20px !important;
+  padding-left: 20px !important;
+}
+
+.navbar-collapse {
+  justify-content: end !important;
+}
+
+.navbar-collapse ul li {
+  margin-left: 10px !important;
+  margin-right: 10px !important;
+}
+
+.btn-cart {
+  padding-right: 30px !important;
+  padding-left: 30px !important;
+}
+
+.row-cart-details {
+  justify-content: center;
+}
+
+.container-fluid {
+  padding: 0px !important;
+}
+
+.card {
+  width: 40%;
+  transition: 0.3s;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2) !important;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card-img-top {
+  padding: 20px;
+}
+
+.description {
+  margin-top: 25px !important;
+}
+
+p {
+  margin-top: 5px !important;
+}
+
+.nav-col {
+  padding-right: 0px !important;
+}
+
+nav {
+  padding: 25px;
+}
+
+.alert-row {
+  justify-content: center;
+}
+
+footer {
+  height: auto !important;
+}
+
+.footer-2 {
+  margin-top: 250px !important;
+}
+
+.bg-orange {
+  background-color: orangered;
+}
